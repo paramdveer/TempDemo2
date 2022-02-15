@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example",
+    "module": "TempDemo2",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8",
+      "buildId": "yrxwymh3b5albl77v3gweo6hl4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "TempDemo2-1.0-SNAPSHOT.jar",
+          "url": "TempDemo2-1.0-SNAPSHOT.jar",
+          "size": 888,
+          "sha512": "f8a307cebfe23fb9ad000b67a4c98bbc23e2c40a443ace6fc149caebeae046ab743a5923b53c5d57574a5149d065ca6cb49b23edb3fc7fd2e1bd75a7c67780f7",
+          "sha256": "57ee412835981ba38c94c8c5f7ad881b680a9e94ed3f886bd1f396b9f6b5d6aa",
+          "sha1": "4a15734090e29b6116dbe5df249996f5788fdf59",
+          "md5": "b038e434a2dfd5256d708446aa130c9f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "TempDemo2-1.0-SNAPSHOT.jar",
+          "url": "TempDemo2-1.0-SNAPSHOT.jar",
+          "size": 888,
+          "sha512": "f8a307cebfe23fb9ad000b67a4c98bbc23e2c40a443ace6fc149caebeae046ab743a5923b53c5d57574a5149d065ca6cb49b23edb3fc7fd2e1bd75a7c67780f7",
+          "sha256": "57ee412835981ba38c94c8c5f7ad881b680a9e94ed3f886bd1f396b9f6b5d6aa",
+          "sha1": "4a15734090e29b6116dbe5df249996f5788fdf59",
+          "md5": "b038e434a2dfd5256d708446aa130c9f"
+        }
+      ]
+    }
+  ]
+}
